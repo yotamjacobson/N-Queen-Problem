@@ -1,0 +1,10 @@
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\obj\Debug\QueensProblem.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\obj\Debug\QueensProblem.Form1.resources
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\obj\Debug\QueensProblem.csproj.GenerateResource.cache
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\obj\Debug\QueensProblem.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\owner\source\repos\Queens Problem\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
